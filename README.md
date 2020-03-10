@@ -1,8 +1,9 @@
-# Card_Game
+# Card_Game_System
 
-##Feature List
-    1.System Automatically Shuffle Card
-    2.System Automatically Distribute Card to the Player
-    3.The Game must have Two Players
-    4.User can Input Name of Player
-    5.User can Input Starting Money
+## Feature List
+    ##### System Automatically Shuffle Card
+    ##### System Automatically Distribute Card to the Player
+    ##### The Game must have Two Players
+    ##### User can Input Name of Player
+    ##### User can Input Starting Money
+    ##### User can Bet using Money
